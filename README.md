@@ -9,7 +9,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-VicenteRC--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicenteRC-Dev)
-[![Discord](https://img.shields.io/badge/Discord-little.kid-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-kid.kidd-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 
