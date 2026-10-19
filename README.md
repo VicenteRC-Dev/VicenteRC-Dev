@@ -6,6 +6,12 @@
 
 **Desarrollador Independiente** · Automation · Interception · Scripting
 
+<br><br>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VicenteRC-Dev">
+</p>
+
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-VicenteRC--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicenteRC-Dev)
